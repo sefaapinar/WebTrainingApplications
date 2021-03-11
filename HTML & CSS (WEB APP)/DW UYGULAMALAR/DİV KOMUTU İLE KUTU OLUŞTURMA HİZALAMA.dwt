@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>CSS GİRİŞ</title>
+</head>
+<body>
+	
+<div style="width: 300px; height: 170px; background: #333; border: 2px solid #131010; color: aliceblue; font: bold 20px tahoma; text-align: center; padding: 130px 0 0 0; position: fixed">4.KUTU</div>
+	
+<div style="width:300px; height: 170px; background: #c30; border: 2px solid #131010; color:aliceblue; font:bold 20px tahoma; text-align: center; padding: 130px 0 0 0; position: static; margin:50px 0 0 30px">1.KUTU</div>
+	
+<div style="width:300px; height: 170px; background: #3c0; border: 2px solid #131010; color:aliceblue; font:bold 20px tahoma; text-align: center; padding: 130px 0 0 0; position: relative; top:50px; left:40px ">2.KUTU</div>
+	
+<div style="width: 300px; height: 170px; background: #30c; border: 2px solid #131010; color: aliceblue; font: bold 20px tahoma; text-align: center; padding: 130px 0 0 0; position: absolute; left: 523px; top: 1662px;">3.KUTU</div>
+	
+
+	
+	
+	
+	
+	
+	
+</body>
+</html>

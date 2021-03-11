@@ -1,0 +1,47 @@
+/***** RESET *****/
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code,del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var, b, u, i, center,dl, dt, dd, ol, ul, li,fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	/*font-size: 100%;
+	vertical-align: baseline;*/
+	
+}
+html, body {height:100%;}
+body {line-height: 1;}
+ol, ul {list-style: none;}
+blockquote, q {quotes: none;}
+blockquote:before, blockquote:after, q:before, q:after {content: '';content: none;}
+table {border-collapse: collapse;border-spacing: 0;} /* tables still need 'cellspacing="0"' in the markup */
+textarea {overflow:auto;}
+/***** RESET *****/
+
+.hepsi{ width:760px; height:auto; margin:10px auto }
+.menu{ width:400px; height:50px; margin:0 0 0 11px}
+.ust{ width:760px; height:90px; background:url(images/about.jpg) no-repeat; padding:60px 0 0 0}
+.ortasol{ width:405px; height:302px; float:left; font:12px tahoma; color:#999; padding:20px 0 0 10px}
+.ortasag{ width:325px; height:322px; float:left; margin:0 0 0 20px;font:12px tahoma; color:#999}
+.altsol{ width:435px; height:68px; float:left; font:11px tahoma;color: #ccc; border-top:1px solid #ccc; padding:30px 0 0 0}
+.altsag{ width:325px; height:68px; float:left;border-top:1px solid #ccc;padding:30px 0 0 0;font:11px tahoma; color:#ccc;}
+
+.menu ul li{ float:left}
+.menu ul li a{ display:block; height:50px; text-indent:-2000px}
+.menu ul li#about a{ width:71px; background:url(images/css-baliklama16.gif) 0 -100px no-repeat }
+.menu ul li#services a{ width:84px; background:url(images/css-baliklama17.gif) no-repeat }
+.menu ul li#portfolio a{ width:95px; background:url(images/css-baliklama18.gif) 0 0 no-repeat }
+.menu ul li#contact a{ width:95px; background:url(images/css-baliklama19.gif) 0 0 no-repeat }
+.menu ul li#services a:hover{  background:url(images/css-baliklama17.gif) 0 -100px no-repeat }
+.menu ul li#portfolio a:hover{ width:95px; background:url(images/css-baliklama18.gif) 0 -100px no-repeat }
+.menu ul li#contact a:hover{ width:95px; background:url(images/css-baliklama19.gif) 0 -100px no-repeat }
+.ustic{ width:250px; height:30px; margin:0 0 0 510px; font:20px verdana; color:#fff}
+.yazi1{ font:bold 23px verdana; color:#fff}
+.yazi2{ font:bold 17px tahoma; color:#f60}
+.yazi3{ font:bold 13px tahoma; color:#888}
+.yazi4{ font:21px tahoma; color:#c95e4e; text-transform:uppercase}
+.yazi5{ font:11px tahoma; color:#D36818}
+.altsag a{ font:11px tahoma; color:#ccc; text-decoration:none; text-transform:capitalize}
+.altsag a:hover{  color:#D36818; text-decoration:underline;}
+
+

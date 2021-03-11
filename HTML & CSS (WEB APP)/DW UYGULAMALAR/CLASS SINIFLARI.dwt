@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>GÖLGELENDİRME,KÖŞE YUVARLATMA</title>
+<style type="text/css">
+.arkaplanrenk{background: #06F}
+.kutu{width: 300px; height: 300px; background: #900; margin: 40px auto 0 auto; box-shadow: 0px 5px 4px #000000; border-radius:150px; transform: rotate(45deg)}
+h1{font: bold 14px tahoma; color: #fff}
+.yazi{font: bold 18px tahoma; color: #f74}
+	
+
+</style>
+</head>
+<body class="arkaplanrenk">
+<div class="kutu"></div>
+<h1>BAŞLIK 1</h1><br/>
+<h1>BAŞLIK 2</h1><br/>
+<h1 class="yazi">BAŞLIK 1</h1>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</body>
+</html>

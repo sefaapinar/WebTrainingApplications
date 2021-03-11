@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Başlıksız Belge</title>
+</head>
+	
+<body>
+	
+<table border="0">
+  <tbody>
+    <tr>
+      <td width="100" height="30">Adı Soyadı</td>
+      <td width="300"><input type="text"></td>
+    </tr>
+    <tr>
+      <td height="30">E-Mail</td>
+      <td><input type="text" size="15">@<select>
+        <option>gmail.com</option>
+        <option>hotmail.com</option>
+        <option>outlook.com</option>
+      </select></td>
+    </tr>
+	 <tr>
+      <td height="30">Cinsiyet</td>
+      <td><input name="cinsiyet" type="radio" value="Erkek">Erkek<input  name="cinsiyet" type="radio" value="Kadın">Kadın</td>
+    </tr>
+    <tr>
+       <td height="30">Doğum Yeri</td>
+       <td><select>
+         <option>Bir Şehir Seçiniz</option>
+         <option>İstanbul</option>
+         <option>Sivas</option>
+         <option>Adana</option>
+         <option>Bursa</option>
+       </select></td>
+    </tr>
+    <tr>
+       <td height="30">Hobiler</td>
+       <td><input type="checkbox" value="Sinema">Sinema<input type="checkbox" value="kitap">Kitap</td>
+    </tr>
+    <tr>
+      <td height="30"></td>
+      <td><input type="button" value="Gönder"></td>
+    </tr>
+  </tbody>
+</table>
+
+	
+	
+</body>
+</html>

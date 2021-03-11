@@ -1,0 +1,24 @@
+.menu1{width: 130px; height: 160px; margin: 10px 0 0 0}
+.menu1 ul{margin: 0; padding: 0; list-style: none}
+.menu1 ul li a{display:block; width: 125px; height: 24px; background: #fcc; color:#930; font:bold 12px tahoma; text-decoration: none; padding: 8px 0 0 5px}
+.menu1 ul li a:hover{color: #fff; background: #930; text-decoration: underline}
+
+.menu2{width: 600px; height:32px; margin:30px 0 0 0}
+.menu2 ul{margin: 0; padding: 0; list-style: none}
+.menu2 ul li{float: left}
+.menu2 ul li a{display:block; width: 120px; height: 32px; background: #fcc; color:#930; font:bold 12px tahoma; text-decoration: none; padding: 8px 0 0 0; text-align: center}
+.menu2 ul li a:hover{color: #fff; background: #930; text-decoration: underline}
+
+.menu3{width: 510px; height:32px; margin:30px 0 0 0}
+.menu3 ul{margin: 0; padding: 0; list-style: none}
+.menu3 ul li{float: left}
+.menu3 ul li a{display:block; padding: 9px 25px; background: #fcc; color:#930; font:bold 12px tahoma; text-decoration: none}
+.menu3 ul li a:hover{color: #fff; background: #930}
+
+.menu4{width: 152px; height:170px; margin:30px 0 0 0}
+.menu4 ul {margin: 0; padding: 0; list-style: none}
+.menu4 ul li {position: relative}
+.menu4 ul li a{display:block; width: 160px; background: #fcc; color:#930; font:bold 12px tahoma; text-decoration: none; padding: 9px 5px; border: 1px solid #800}
+.menu4 ul li a:hover{color: #fff; background: #930}
+.menu4 ul li ul{display:none; position: absolute;left: 162px; top:0}
+.menu4 ul li:hover ul{display:block}

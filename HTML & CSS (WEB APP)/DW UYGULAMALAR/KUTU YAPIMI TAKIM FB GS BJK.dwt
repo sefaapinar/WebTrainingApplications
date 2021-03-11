@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>EV ÇİZİMİ UYGULAMASI</title>
+<style type="text/css">	
+.buyukkutu{width: 600px; height: 400px; margin: 10px auto}
+.bjk{ width: 300px; height: 120px; background: #000; color: #fff; font: bold 18px tahom; text-align: center; padding: 80px 0 0 0; float: left}
+	
+.fb{ width: 300px; height: 200px; background: #FF0; color: #009; font: bold 18px tahom; text-align: right; float: left}
+	
+.GS{ width: 290px; height: 40px; background: #ED1014; color: #D2E50C; font: bold 18px tahom; text-align: right; float: left; padding: 160px 10px 0 0 }
+	
+.BS{ width: 290px; height: 110px; background: #11ED24; color: #F0F0F0; font: bold 18px tahom; float: left; padding: 90px 0 0 10px}
+
+
+</style>
+</head>
+
+<body>
+<div class="buyukkutu">
+<div class="bjk">BEŞİKTAŞ</div>
+<div class="fb">FENERBAHÇE</div>
+<div class="GS">GALATASARAY</div>
+<div class="BS">BURSASPOR</div>
+	
+</div>
+</body>
+</html>

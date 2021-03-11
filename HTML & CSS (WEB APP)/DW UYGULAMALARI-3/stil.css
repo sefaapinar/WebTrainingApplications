@@ -1,0 +1,113 @@
+/***** RESET *****/
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code,del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, sub, sup, tt, var, b, u, i, center,dl, dt, dd, ol, ul, li,fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	/*font-size: 100%;
+	vertical-align: baseline;*/
+	
+}
+html, body {height:100%;}
+body {line-height: 1;}
+ol, ul {list-style: none;}
+blockquote, q {quotes: none;}
+blockquote:before, blockquote:after, q:before, q:after {content: '';content: none;}
+table {border-collapse: collapse;border-spacing: 0;} /
+textarea {overflow:auto;}
+
+/***** RESET *****/
+
+body{ background:url(images/bg.gif)}
+.hepsi{ width:821px; height:auto; margin:20px auto }
+.logo{ width:229px; height:94px; background:url(images/logo.gif)}
+.menu{ width:821px; height:42px; background:url(images/menu_bg.gif) }
+.orta{ width:801px; height:730px; background:#e9e5e2; padding:30px 0 0 20px}
+.alt{width:821px; height:50px; background:url(images/csstemplatesmarket.gif) right no-repeat}
+.menu ul li{ float:left}
+.menu ul li a{ display:block; width:80px; height:30px; font:bold 12px Tahoma; color:#fff; text-decoration:none; text-align:center; padding:12px 0 0 0}
+.menu ul li#home a{background:url(images/menu_bullet.gif) center bottom  no-repeat}
+.menu ul li a:hover{background:url(images/menu_bullet.gif) center bottom no-repeat}
+.orta1{ width:456px; height:30px; background:url(images/checked.gif) no-repeat;  float:left; font:20px tahoma; color:#24a4b7; padding:0 0 0 40px;
+letter-spacing:2px}
+.yazi1{ font:bold 24px tahoma; color:#d95b27}
+.orta2{ width:441px; height:177px; background: url(images/welcome_box.gif) no-repeat; float:left; font:12px tahoma; color:#000;padding:25px 40px 0 25px;
+text-align:justify; line-height:20px}
+.yazi2{font:bold 12px tahoma; color:#d17750; }
+.readmore{ width:63px; height:19px; background:url(images/read_more_bg.gif); margin:10px 0 0 350px; padding:4px 0 0 20px}
+.readmore a{ font:bold 11px tahoma; color:#fff; text-decoration:none}
+.readmore a:hover{text-decoration:underline}
+.orta3{ width:187px; height:265px; float:left; margin: -25px 0 0 60px }
+.orta4{ width:466px; height:142px; float:left; font:bold 13px tahoma; color:#000; padding:10px 0 0 30px }
+.orta4 ul li{ display:block; width:402px; height:21px; background:url(images/bullet_list.gif) no-repeat; font:normal 11px tahoma; padding:4px 0 0 8px }
+.yazi3{font:bold 12px tahoma; color:#000; }
+.orta5{ width:268px; height:139px; float:left; background:url(images/text_box.gif) no-repeat; padding:20px 0 0 20px  }
+.orta5 td{font:bold 11px tahoma;color:#000;}
+.orta5 td span{font-size:15px}
+.metinkutusu{ border:1px solid #b5c6d0; border-radius:5px; width:150px; height:16px; }
+.dugme{ width:83px; height:24px; background:url(images/login.gif) no-repeat; border:none}
+.orta6{ width:466px; height:249px;float:left; font:bold 13px tahoma; padding:10px 0 0 30px; margin:10px 0 0 0  }
+.orta6 ul li{display: block; width:400px; height:90px; background:url(images/news_icon.gif) no-repeat;border-bottom:1px dashed #CCC; font:13px tahoma;
+padding:0 0 0 40px; text-align:justify  }
+.orta7{ width:288px; height:25px; float:left; font:bold 14px tahoma; margin:20px 0 0 0}
+.orta8{ width:258px; height:139px; float:left; background:url(images/text_box.gif); font:12px tahoma; font-style:italic; text-align:justify;
+padding:20px 10px 0 20px; line-height:20px}
+.orta8 span{ font-weight:bold} 
+.alt ul li{ float:left}
+.alt ul li a{ display:block; padding:3px 10px; font:13px tahoma;color:#757266; text-decoration:none }
+.alt ul li a:hover{ text-decoration:underline }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
